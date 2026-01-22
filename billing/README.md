@@ -1,4 +1,4 @@
-# Spring boot CRUD By [Sotobotero](https://sotobotero.com)
+# Spring boot CRUD 
 
 **Content**   
 1. [How contribute to this project](#how-contribute-to-this-project)
